@@ -1,6 +1,6 @@
 import { encode } from "html-entities";
 
-type ISiteName = "CoreProject" | "AnimeCore" | "MangaCore";
+type ISiteName = "KeyProject" | "AnKey" | "MangaKey";
 
 type ILocale =
     | "af_ZA"
