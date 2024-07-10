@@ -50,8 +50,8 @@
             { background: "bg-error-200", border: "border-error-200" }
         ],
         opengraph_html = new OpengraphGenerator({
-            title: "AnimeCore - A modern anime streaming site",
-            site_name: "CoreProject",
+            title: "Ankey - A modern anime streaming site",
+            site_name: "Ankey",
             image_url: "", // Use Opengraph later
             url: $page.url.href,
             locale: "en_US",
