@@ -4,8 +4,8 @@
     import AnimeCore from "$icons/logos/anime_core.svelte";
 
     const opengraph_html = new OpengraphGenerator({
-        title: "CoreProject - A modern anime, manga, sound streaming site",
-        site_name: "CoreProject",
+        title: "Ankey - A modern anime, manga, sound streaming site",
+        site_name: "Ankey",
         image_url: "", // Use Opengraph later
         url: $page.url.href,
         locale: "en_US",
